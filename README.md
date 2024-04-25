@@ -1,2 +1,2 @@
 # JAVA-ASSIGNMENT
-Fast Food Ordering And Management System(FFAMS)
+Fast Food Ordering And Management System(FOMS)
